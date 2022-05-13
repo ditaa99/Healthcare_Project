@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<patients>
+    <patient>
+        <name>Alex</name>
+        <age>45</age>
+        <gender>MALE</gender>
+        <Condition>Flu</Condition>
+    </patient>
+    <patient>
+        <name>Madison</name>
+        <age>55</age>
+        <gender>FEMALE</gender>
+        <Condition>FLU</Condition>
+    </patient>
+    <patient>
+        <name>asdasd</name>
+        <age>654</age>
+        <gender>FEMALE</gender>
+        <Condition>6asdasdasd</Condition>
+    </patient>
+    <patient>
+        <name>asdas</name>
+        <age>54</age>
+        <gender>FEMALE</gender>
+        <Condition>asdas</Condition>
+    </patient>
+    <patient>
+        <name>asdas</name>
+        <age>15</age>
+        <gender>MALE</gender>
+        <Condition>1515a</Condition>
+    </patient>
+    <patient>
+        <name>asd asd</name>
+        <age>31</age>
+        <gender>MALE</gender>
+        <Condition>1515</Condition>
+    </patient>
+</patients>

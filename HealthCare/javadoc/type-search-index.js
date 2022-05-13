@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"healthcare","l":"Gender"},{"p":"healthcare","l":"HealthCare"},{"p":"healthcare","l":"Patient"},{"p":"healthcare","l":"XmlReaderWriter"}];updateSearchResults();
